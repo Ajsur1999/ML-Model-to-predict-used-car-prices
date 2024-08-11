@@ -43,6 +43,15 @@ We can see that, the car which has an Engine Type as Diesel makes the highest pr
 
 **Regression Model**
 
+Regression Analysis Technique is a set of statistical processes which is used for estimating the relationships between dependent and one or more independent variables. I have used Linear Regression Technique which establishes a relation among two types of variables (dependent & independent) where we have more than one explanatory variables. Linear regression is the best suited regression to analyse the given data set. The main purpose of selecting linear regression if the independent variables are successful in predicting the dependent variable and which independent variables are statistically significant or not. The variables that are used in the linear regression to estimate the price of a used car are as follows
+
+**Dependent Variable** – Price.
+**Independent Variables** – Brand, Body, Mileage, Engine Type, Engine Version, Is
+Registration.
+As discussed above, since few of the predictor variables has categorical data, The dummy variables need to be created in order to include them in the regression analysis.
+
+
+
 
 
 
