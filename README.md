@@ -6,8 +6,10 @@ The dataset has approximately 4300 records from 1969 to 2021. Of these records f
 
 The dataset used for the project is that of used car sales data containing various columns like: Brand of a car, Price, Body type of a car, Mileage, Engine Version, Engine Type, Is Registration, Manufacturing Year. 
 As the aim is to predict the price of used cars in USA taken into account the various other variables.
+
 **Dependent variable:** Price of a car ( measured in $)
-**Independent Variables: ** 
+
+****Independent Variables:** ** 
 •	Brand of a car – The various Brands of a car like BMW, Audi, Toyota etc.,
 •	Body type – The type of body by which the motor vehicle is named like sedan, crossover etc.,
 •	Mileage – The Mileage of a car in number.
