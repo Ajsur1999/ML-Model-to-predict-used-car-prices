@@ -9,7 +9,7 @@ As the aim is to predict the price of used cars in USA taken into account the va
 
 **Dependent variable:** Price of a car ( measured in $)
 
-****Independent Variables:** ** 
+**Independent Variables:**
 •	Brand of a car – The various Brands of a car like BMW, Audi, Toyota etc.,
 •	Body type – The type of body by which the motor vehicle is named like sedan, crossover etc.,
 •	Mileage – The Mileage of a car in number.
@@ -22,7 +22,28 @@ As the aim is to predict the price of used cars in USA taken into account the va
 The dataset considered was in an unstructured format and had lots of bad data which made the regression analysis not to move forward. So, this data had to be cleaned to make it feasible for regression. The removal of the unusual observations from the dataset was done to make the dataset structured.
 Apart from this, it also had predictor variables which have categorical values in it. And even doesn’t support the regression analysis. In order to handle this, I have created respective dummy variables for the predictor variables to use them for the price prediction.
 
-This is how the structured dataset looks –
+This is how the structured dataset looks like after cleaning –
+
+<img width="474" alt="image" src="https://github.com/user-attachments/assets/0ff63778-0e10-484f-b7eb-4cb38eaa43fb">
+
+
+**Exploratory Data Analysis**
+By visualizing the data, we can know how the data is distributed, find patterns and then we can summarize and draw conclusions which helps the business grow.
+Following are the conclusions that are found using descriptive analytics –
+
+<img width="471" alt="image" src="https://github.com/user-attachments/assets/a20df607-2d0f-4262-a3c3-71c5e1a8af23">
+
+From the above chart, we can find the highest and lowest priced branded car. And each brand has its respective body types, we can find the individual price of each body type for each individual brand. For example, Mercedes – Benz Crossover is the highest priced brand from the entire dataset and Mitsubishi Van is the lowest of all.
+Also, a deep analysis over the chart helps us to draw few other meaningful conclusions. Like the crossover body type for each brand seems to have highest price when compared with other body types. But there’s also an exceptional scenario which is Renault brand, where the van body type picks the highest cost of all other body types. The sedan is the second highest priced car. The hatchback is the least priced car in the different body types available due to its compact size and less features available on the vehicle. In the premium cars the Toyota is the highest priced car compared to Renault and Mitsubishi.
+Following is the chart which describes the price based on Engine Type –
+
+<img width="478" alt="image" src="https://github.com/user-attachments/assets/005b5c15-7b03-4460-b29e-05a177fe880c">
+
+
+
+
+
+
 
 
 
