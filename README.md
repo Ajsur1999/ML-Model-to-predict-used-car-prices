@@ -39,6 +39,10 @@ Following is the chart which describes the price based on Engine Type –
 
 <img width="478" alt="image" src="https://github.com/user-attachments/assets/005b5c15-7b03-4460-b29e-05a177fe880c">
 
+We can see that, the car which has an Engine Type as Diesel makes the highest price. And the lowest goes to other engine type. Apart from that, the registered cars will have higher prices than unregistered cars from the above chart. The other engine type and the gas engine type cost less compared to the diesel and petrol engine type due to its low popularity among the customers as most of the customers might prefer diesel or petrol cars compared to other engine types. And of course, these conclusions and finding makes some sense and adds value to the model.
+
+**Regression Model**
+
 
 
 
